@@ -36,6 +36,11 @@ Repository contains lists of [Bluesky](https://bsky.app/) (AT Protocol) users se
 - [Erik Hanchett @erikch.bsky.social](https://bsky.app/profile/erikch.bsky.social)
 - [Michael Hausenblas @mhausenblas.info](https://bsky.app/profile/mhausenblas.info)
 - [René Brandel @renebrandel.bsky.social](https://bsky.app/profile/renebrandel.bsky.social)
+- [Massimo Re Ferré @mreferre.bsky.social](https://bsky.app/profile/mreferre.bsky.social)
+- [Ali Spittel @alispit.tel](https://bsky.app/profile/alispit.tel)
+- [Abby Fuller @abby.bsky.social](https://bsky.app/profile/abby.bsky.social)
+- [Praneeta Prakash @praneeta.bsky.social](https://bsky.app/profile/praneeta.bsky.social)
+- [Richard Boyd @rboyd.dev](https://bsky.app/profile/rboyd.dev)
 
 ## AWS Heroes
 
@@ -67,6 +72,7 @@ Repository contains lists of [Bluesky](https://bsky.app/) (AT Protocol) users se
 - [Eric Hammond @esh.dev](https://bsky.app/profile/esh.dev)
 - [Matthieu Napoli @mnapoli.bsky.social](https://bsky.app/profile/mnapoli.bsky.social)
 - [Brian LeRoux @brianleroux.bsky.social](https://bsky.app/profile/brianleroux.bsky.social)
+- [Jeremy Daly @jeremydaly.com](https://bsky.app/profile/jeremydaly.com)
 
 ## AWS Community Builders
 
