@@ -23,6 +23,7 @@ Repository contains lists of [Bluesky](https://bsky.app/) (AT Protocol) users se
 - [Sebastien Stormacq @sebsto.bsky.social](https://bsky.app/profile/sebsto.bsky.social)
 - [Jeff Barr @jeff-barr.com](https://bsky.app/profile/jeff-barr.com)
 - [Emily Freeman @emilyfreeman.bsky.social](https://bsky.app/profile/emilyfreeman.bsky.social)
+- [Danilo Poccia @danilop.bsky.social](https://bsky.app/profile/danilop.bsky.social)
 
 ## AWS Employees
 
