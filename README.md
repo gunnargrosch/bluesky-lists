@@ -91,10 +91,11 @@ Repository contains lists of [Bluesky](https://bsky.app/) (AT Protocol) users se
 - [Danielle Heberling @danielleheberling.xyz](https://bsky.app/profile/danielleheberling.xyz)
 - [Sebastian Bille](https://bsky.app/profile/tastefulelk.bsky.social)
 - [Nick Triantafillou](https://bsky.app/profile/nickt.bsky.social)
+- [Johannes Koch](https://bsky.app/profile/lockhead.bsky.social)
 
 ## AWS User Group Leaders
 
-- .
+- [Johannes Koch](https://bsky.app/profile/lockhead.bsky.social)
 
 ## Contribute
 
