@@ -25,6 +25,9 @@ Repository contains lists of [Bluesky](https://bsky.app/) (AT Protocol) users se
 - [Emily Freeman @emilyfreeman.bsky.social](https://bsky.app/profile/emilyfreeman.bsky.social)
 - [Danilo Poccia @danilop.bsky.social](https://bsky.app/profile/danilop.bsky.social)
 - [Jen Looper @jenlooper.bsky.social](https://bsky.app/profile/jenlooper.bsky.social)
+- [Romain Jourdan @rjourdan.com](https://bsky.app/profile/rjourdan.com)
+- [Boaz Ziniman @boaz.cloud](https://bsky.app/profile/boaz.cloud)
+- [Mark Birch @markbirch.bsky.social](https://bsky.app/profile/markbirch.bsky.social)
 
 ## AWS Employees
 
@@ -41,6 +44,11 @@ Repository contains lists of [Bluesky](https://bsky.app/) (AT Protocol) users se
 - [Abby Fuller @abby.bsky.social](https://bsky.app/profile/abby.bsky.social)
 - [Praneeta Prakash @praneeta.bsky.social](https://bsky.app/profile/praneeta.bsky.social)
 - [Richard Boyd @rboyd.dev](https://bsky.app/profile/rboyd.dev)
+- [Nik Pinski @nikpin.ski](https://bsky.app/profile/nikpin.ski)
+- [Michael Liendo](https://bsky.app/profile/focusotter.bsky.social)
+- [Justin Garrison @justingarrison.com](https://bsky.app/profile/justingarrison.com)
+- [Matt Auerbach @mauerbac.dev](https://bsky.app/profile/mauerbac.dev)
+- [Jeramiah Dooley @jjdooley.awscontainers.io](https://bsky.app/profile/jjdooley.awscontainers.io)
 
 ## AWS Heroes
 
@@ -73,6 +81,8 @@ Repository contains lists of [Bluesky](https://bsky.app/) (AT Protocol) users se
 - [Matthieu Napoli @mnapoli.bsky.social](https://bsky.app/profile/mnapoli.bsky.social)
 - [Brian LeRoux @brianleroux.bsky.social](https://bsky.app/profile/brianleroux.bsky.social)
 - [Jeremy Daly @jeremydaly.com](https://bsky.app/profile/jeremydaly.com)
+- [Matthew Bonig @matthewbonig.bsky.social](https://bsky.app/profile/matthewbonig.bsky.social)
+- [Serhat Can @serhatcan.bsky.social](https://bsky.app/profile/serhatcan.bsky.social)
 
 ## AWS Community Builders
 
