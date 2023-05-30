@@ -45,7 +45,7 @@ Repository contains lists of [Bluesky](https://bsky.app/) (AT Protocol) users se
 - [Praneeta Prakash @praneeta.bsky.social](https://bsky.app/profile/praneeta.bsky.social)
 - [Richard Boyd @rboyd.dev](https://bsky.app/profile/rboyd.dev)
 - [Nik Pinski @nikpin.ski](https://bsky.app/profile/nikpin.ski)
-- [Michael Liendo](https://bsky.app/profile/focusotter.bsky.social)
+- [Michael Liendo @focusotter.bsky.social](https://bsky.app/profile/focusotter.bsky.social)
 - [Justin Garrison @justingarrison.com](https://bsky.app/profile/justingarrison.com)
 - [Matt Auerbach @mauerbac.dev](https://bsky.app/profile/mauerbac.dev)
 - [Jeramiah Dooley @jjdooley.awscontainers.io](https://bsky.app/profile/jjdooley.awscontainers.io)
@@ -89,13 +89,13 @@ Repository contains lists of [Bluesky](https://bsky.app/) (AT Protocol) users se
 
 - [Benjamen Pyle @binaryheap.com](https://bsky.app/profile/binaryheap.com)
 - [Danielle Heberling @danielleheberling.xyz](https://bsky.app/profile/danielleheberling.xyz)
-- [Sebastian Bille](https://bsky.app/profile/tastefulelk.bsky.social)
-- [Nick Triantafillou](https://bsky.app/profile/nickt.bsky.social)
-- [Johannes Koch](https://bsky.app/profile/lockhead.bsky.social)
+- [Sebastian Bille @tastefulelk.bsky.social](https://bsky.app/profile/tastefulelk.bsky.social)
+- [Nick Triantafillou @nickt.bsky.social](https://bsky.app/profile/nickt.bsky.social)
+- [Johannes Koch @lockhead.bsky.social](https://bsky.app/profile/lockhead.bsky.social)
 
 ## AWS User Group Leaders
 
-- [Johannes Koch](https://bsky.app/profile/lockhead.bsky.social)
+- [Johannes Koch @lockhead.bsky.social](https://bsky.app/profile/lockhead.bsky.social)
 
 ## Contribute
 
