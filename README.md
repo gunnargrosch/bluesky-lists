@@ -95,6 +95,7 @@ Repository contains lists of [Bluesky](https://bsky.app/) (AT Protocol) users se
 - [Sebastian Bille @tastefulelk.bsky.social](https://bsky.app/profile/tastefulelk.bsky.social)
 - [Nick Triantafillou @nickt.bsky.social](https://bsky.app/profile/nickt.bsky.social)
 - [Johannes Koch @lockhead.bsky.social](https://bsky.app/profile/lockhead.bsky.social)
+- [Lee Gilmore @serverlessadvocate.bsky.social](https://bsky.app/profile/serverlessadvocate.bsky.social)
 
 ## AWS User Group Leaders
 
