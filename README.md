@@ -28,6 +28,7 @@ Repository contains lists of [Bluesky](https://bsky.app/) (AT Protocol) users se
 - [Romain Jourdan @rjourdan.com](https://bsky.app/profile/rjourdan.com)
 - [Boaz Ziniman @boaz.cloud](https://bsky.app/profile/boaz.cloud)
 - [Mark Birch @markbirch.bsky.social](https://bsky.app/profile/markbirch.bsky.social)
+- [Memo Döring](https://bsky.app/profile/memodoring.bsky.social)
 
 ## AWS Employees
 
