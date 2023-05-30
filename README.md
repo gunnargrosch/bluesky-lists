@@ -84,6 +84,7 @@ Repository contains lists of [Bluesky](https://bsky.app/) (AT Protocol) users se
 - [Matthew Bonig @matthewbonig.bsky.social](https://bsky.app/profile/matthewbonig.bsky.social)
 - [Serhat Can @serhatcan.bsky.social](https://bsky.app/profile/serhatcan.bsky.social)
 - [Markus Ostertag @osterjour.bsky.social](https://bsky.app/profile/osterjour.bsky.social)
+- [Slobodan Stojanović @slobodan.me](https://bsky.app/profile/slobodan.me)
 
 ## AWS Community Builders
 
