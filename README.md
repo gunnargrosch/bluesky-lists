@@ -78,6 +78,8 @@ Repository contains lists of [Bluesky](https://bsky.app/) (AT Protocol) users se
 
 - [Benjamen Pyle @binaryheap.com](https://bsky.app/profile/binaryheap.com)
 - [Danielle Heberling @danielleheberling.xyz](https://bsky.app/profile/danielleheberling.xyz)
+- [Sebastian Bille](https://bsky.app/profile/tastefulelk.bsky.social)
+- [Nick Triantafillou](https://bsky.app/profile/nickt.bsky.social)
 
 ## AWS User Group Leaders
 
