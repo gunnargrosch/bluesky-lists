@@ -51,6 +51,7 @@ Repository contains lists of [Bluesky](https://bsky.app/) (AT Protocol) users se
 - [Matt Auerbach @mauerbac.dev](https://bsky.app/profile/mauerbac.dev)
 - [Jeramiah Dooley @jjdooley.awscontainers.io](https://bsky.app/profile/jjdooley.awscontainers.io)
 - [Maish Saidel-Keesing @maishsk.com](https://bsky.app/profile/maishsk.com)
+- [Damon Cortesi @dacort.bsky.social](https://bsky.app/profile/dacort.bsky.social)
 
 ## AWS Heroes
 
