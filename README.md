@@ -88,6 +88,7 @@ Repository contains lists of [Bluesky](https://bsky.app/) (AT Protocol) users se
 - [Serhat Can @serhatcan.bsky.social](https://bsky.app/profile/serhatcan.bsky.social)
 - [Markus Ostertag @osterjour.bsky.social](https://bsky.app/profile/osterjour.bsky.social)
 - [Slobodan Stojanović @slobodan.me](https://bsky.app/profile/slobodan.me)
+- [Sebastian Korfmann @skorfmann.bsky.social](https://bsky.app/profile/skorfmann.bsky.social)
 
 ## AWS Community Builders
 
