@@ -97,6 +97,7 @@ Repository contains lists of [Bluesky](https://bsky.app/) (AT Protocol) users se
 - [Slobodan Stojanović @slobodan.me](https://bsky.app/profile/slobodan.me)
 - [Sebastian Korfmann @skorfmann.bsky.social](https://bsky.app/profile/skorfmann.bsky.social)
 - [Luciano Mammino @loige.co](https://bsky.app/profile/loige.co)
+- [Liz Rice @lizrice.bsky.social](https://bsky.app/profile/lizrice.bsky.social)
 - 
 
 ## AWS Community Builders
