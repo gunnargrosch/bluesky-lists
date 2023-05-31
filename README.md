@@ -14,7 +14,7 @@ Repository contains lists of [Bluesky](https://bsky.app/) (AT Protocol) users se
 
 ## AWS Developer Relations
 
-- [Gunnar Grosch @gunnargrosch.bsky.social](https://bsky.app/profile/gunnargrosch.bsky.social)
+- [Gunnar Grosch @gunnargrosch.com](https://bsky.app/profile/gunnargrosch.com)
 - [Taylor Jacobsen @taylorjacobsen.bsky.social](https://bsky.app/profile/taylorjacobsen.bsky.social)
 - [Linda Haviv (Vivah) @lindavivah.bsky.social](https://bsky.app/profile/lindavivah.bsky.social)
 - [Felipe LeMaitre @felipelemaitre.bsky.social](https://bsky.app/profile/felipelemaitre.bsky.social)
