@@ -29,6 +29,7 @@ Repository contains lists of [Bluesky](https://bsky.app/) (AT Protocol) users se
 - [Boaz Ziniman @boaz.cloud](https://bsky.app/profile/boaz.cloud)
 - [Mark Birch @markbirch.bsky.social](https://bsky.app/profile/markbirch.bsky.social)
 - [Memo Döring @memodoring.bsky.social](https://bsky.app/profile/memodoring.bsky.social)
+- [Brandon Minnick @codetraveler.io](https://bsky.app/profile/codetraveler.io)
 
 ## AWS Employees
 
@@ -52,6 +53,12 @@ Repository contains lists of [Bluesky](https://bsky.app/) (AT Protocol) users se
 - [Jeramiah Dooley @jjdooley.awscontainers.io](https://bsky.app/profile/jjdooley.awscontainers.io)
 - [Maish Saidel-Keesing @maishsk.com](https://bsky.app/profile/maishsk.com)
 - [Damon Cortesi @dacort.bsky.social](https://bsky.app/profile/dacort.bsky.social)
+- [Alex Wood @alexwood.codes](https://bsky.app/profile/alexwood.codes)
+- [Bryson Tyrrell @brysontyrrell.com](https://bsky.app/profile/brysontyrrell.com)
+- [Muhammed Salih Güler @salihgueler.dev](https://bsky.app/profile/salihgueler.dev)
+- [Chris Woolum @chriswoolum.dev](https://bsky.app/profile/chriswoolum.dev)
+- [Brandon Lyons @interactiverubberduck.dev](https://bsky.app/profile/interactiverubberduck.dev)
+- [Mohit Srivastava @mohit.cloud](https://bsky.app/profile/mohit.cloud)
 
 ## AWS Heroes
 
@@ -89,6 +96,8 @@ Repository contains lists of [Bluesky](https://bsky.app/) (AT Protocol) users se
 - [Markus Ostertag @osterjour.bsky.social](https://bsky.app/profile/osterjour.bsky.social)
 - [Slobodan Stojanović @slobodan.me](https://bsky.app/profile/slobodan.me)
 - [Sebastian Korfmann @skorfmann.bsky.social](https://bsky.app/profile/skorfmann.bsky.social)
+- [Luciano Mammino @loige.co](https://bsky.app/profile/loige.co)
+- 
 
 ## AWS Community Builders
 
@@ -109,4 +118,4 @@ Help keep the lists up to date by creating a PR or contact Gunnar Grosch in the 
 
 ## Author
 
-**Gunnar Grosch** - [GitHub](https://github.com/gunnargrosch) | [Twitter](https://twitter.com/gunnargrosch) | [LinkedIn](https://www.linkedin.com/in/gunnargrosch/) | [Mastodon](https://hachyderm.io/@gunnargrosch) | [Bluesky](https://bsky.app/profile/gunnargrosch.bsky.social)
+**Gunnar Grosch** - [GitHub](https://github.com/gunnargrosch) | [Twitter](https://twitter.com/gunnargrosch) | [LinkedIn](https://www.linkedin.com/in/gunnargrosch/) | [Mastodon](https://hachyderm.io/@gunnargrosch) | [Bluesky](https://bsky.app/profile/gunnargrosch.com)
