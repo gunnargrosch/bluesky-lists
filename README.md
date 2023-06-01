@@ -30,6 +30,7 @@ Repository contains lists of [Bluesky](https://bsky.app/) (AT Protocol) users se
 - [Mark Birch @markbirch.bsky.social](https://bsky.app/profile/markbirch.bsky.social)
 - [Memo Döring @memodoring.bsky.social](https://bsky.app/profile/memodoring.bsky.social)
 - [Brandon Minnick @codetraveler.io](https://bsky.app/profile/codetraveler.io)
+- [Brandon Carroll @brandoncarroll.bsky.social](https://bsky.app/profile/brandoncarroll.bsky.social)
 
 ## AWS Employees
 
