@@ -61,7 +61,8 @@ Repository contains lists of [Bluesky](https://bsky.app/) (AT Protocol) users se
 - [Chris Woolum @chriswoolum.dev](https://bsky.app/profile/chriswoolum.dev)
 - [Brandon Lyons @interactiverubberduck.dev](https://bsky.app/profile/interactiverubberduck.dev)
 - [Mohit Srivastava @mohit.cloud](https://bsky.app/profile/mohit.cloud)
-- [Nicklas af Ekenstam @nille.bsky.social](https://bsky.app/profile/nille.bsky.social) 
+- [Nicklas af Ekenstam @nille.bsky.social](https://bsky.app/profile/nille.bsky.social)
+- [Nathan Peck @nathanpeck.bsky.social](https://bsky.app/profile/nathanpeck.bsky.social) 
 
 ## AWS Heroes
 
