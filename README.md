@@ -32,7 +32,6 @@ Repository contains lists of [Bluesky](https://bsky.app/) (AT Protocol) users se
 - [Brandon Minnick @codetraveler.io](https://bsky.app/profile/codetraveler.io)
 - [Brandon Carroll @brandoncarroll.bsky.social](https://bsky.app/profile/brandoncarroll.bsky.social)
 - [Lily Kerns @lilyhazel.bsky.social](https://bsky.app/profile/lilyhazel.bsky.social)
-- [Nicklas af Ekenstam @nille.bsky.social](https://bsky.app/profile/nille.bsky.social)
 
 ## AWS Employees
 
@@ -62,6 +61,7 @@ Repository contains lists of [Bluesky](https://bsky.app/) (AT Protocol) users se
 - [Chris Woolum @chriswoolum.dev](https://bsky.app/profile/chriswoolum.dev)
 - [Brandon Lyons @interactiverubberduck.dev](https://bsky.app/profile/interactiverubberduck.dev)
 - [Mohit Srivastava @mohit.cloud](https://bsky.app/profile/mohit.cloud)
+- [Nicklas af Ekenstam @nille.bsky.social](https://bsky.app/profile/nille.bsky.social) 
 
 ## AWS Heroes
 
