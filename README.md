@@ -103,14 +103,14 @@ Repository contains lists of [Bluesky](https://bsky.app/) (AT Protocol) users se
 - [Luciano Mammino @loige.co](https://bsky.app/profile/loige.co)
 - [Liz Rice @lizrice.bsky.social](https://bsky.app/profile/lizrice.bsky.social)
 - [Matt Lewis @mattlewis.bsky.social](https://bsky.app/profile/mattlewis.bsky.social)
+- [Danielle Heberling @danielleheberling.xyz](https://bsky.app/profile/danielleheberling.xyz)
+- [Johannes Koch @lockhead.bsky.social](https://bsky.app/profile/lockhead.bsky.social)
 
 ## AWS Community Builders
 
 - [Benjamen Pyle @binaryheap.com](https://bsky.app/profile/binaryheap.com)
-- [Danielle Heberling @danielleheberling.xyz](https://bsky.app/profile/danielleheberling.xyz)
 - [Sebastian Bille @tastefulelk.bsky.social](https://bsky.app/profile/tastefulelk.bsky.social)
 - [Nick Triantafillou @nickt.bsky.social](https://bsky.app/profile/nickt.bsky.social)
-- [Johannes Koch @lockhead.bsky.social](https://bsky.app/profile/lockhead.bsky.social)
 - [Lee Gilmore @serverlessadvocate.bsky.social](https://bsky.app/profile/serverlessadvocate.bsky.social)
 
 ## AWS User Group Leaders
