@@ -32,6 +32,7 @@ Repository contains lists of [Bluesky](https://bsky.app/) (AT Protocol) users se
 - [Brandon Minnick @codetraveler.io](https://bsky.app/profile/codetraveler.io)
 - [Brandon Carroll @brandoncarroll.bsky.social](https://bsky.app/profile/brandoncarroll.bsky.social)
 - [Lily Kerns @lilyhazel.bsky.social](https://bsky.app/profile/lilyhazel.bsky.social)
+- [Cobus Bernard @cobusbernard.bsky.social](https://bsky.app/profile/cobusbernard.bsky.social)
 
 ## AWS Employees
 
@@ -105,6 +106,12 @@ Repository contains lists of [Bluesky](https://bsky.app/) (AT Protocol) users se
 - [Matt Lewis @mattlewis.bsky.social](https://bsky.app/profile/mattlewis.bsky.social)
 - [Danielle Heberling @danielleheberling.xyz](https://bsky.app/profile/danielleheberling.xyz)
 - [Johannes Koch @lockhead.bsky.social](https://bsky.app/profile/lockhead.bsky.social)
+- [Hirokazu Hatano @tcsh.bsky.social](https://bsky.app/profile/tcsh.bsky.social)
+- [Rolf Koski @rolle.bsky.social](https://bsky.app/profile/rolle.bsky.social)
+- [Shun Yoshie @typhon666.bsky.social](https://bsky.app/profile/typhon666.bsky.social)
+- [Gaurav Kamboj @gauravkamboj.com](https://bsky.app/profile/gauravkamboj.com)
+- [Faizal Khan @faizal.bsky.social](https://bsky.app/profile/faizal.bsky.social)
+- [Jones Zachariah Noel @zachjonesnoel.bsky.social](https://bsky.app/profile/zachjonesnoel.bsky.social)
 
 ## AWS Community Builders
 
