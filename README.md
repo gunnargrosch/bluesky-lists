@@ -20,8 +20,7 @@ Repository contains lists of [Bluesky](https://bsky.app/) (AT Protocol) users se
 - [Felipe LeMaitre @felipelemaitre.bsky.social](https://bsky.app/profile/felipelemaitre.bsky.social)
 - [Ross Barich @rossbarich.bsky.social](https://bsky.app/profile/rossbarich.bsky.social)
 - [Wesley Faulkner @wesley83.bsky.social](https://bsky.app/profile/wesley83.bsky.social)
-- [Sebastien Stormacq @sebsto.bsky.social](https://bsky.app/profile/sebsto.bsky.social)
-- [Jeff Barr @jeff-barr.com](https://bsky.app/profile/jeff-barr.com)
+- [Sebastien Stormacq @sebsto.bsky.social](https://bsky.app/profile/sebsto.bsky.social)
 - [Emily Freeman @emilyfreeman.bsky.social](https://bsky.app/profile/emilyfreeman.bsky.social)
 - [Danilo Poccia @danilop.bsky.social](https://bsky.app/profile/danilop.bsky.social)
 - [Jen Looper @jenlooper.bsky.social](https://bsky.app/profile/jenlooper.bsky.social)
@@ -33,8 +32,7 @@ Repository contains lists of [Bluesky](https://bsky.app/) (AT Protocol) users se
 - [Brandon Carroll @brandoncarroll.bsky.social](https://bsky.app/profile/brandoncarroll.bsky.social)
 - [Lily Kerns @lilyhazel.bsky.social](https://bsky.app/profile/lilyhazel.bsky.social)
 - [Cobus Bernard @cobusbernard.bsky.social](https://bsky.app/profile/cobusbernard.bsky.social)
-- [Kris Howard @webgoddess.bsky.social](https://bsky.app/profile/webgoddess.bsky.social)
-- [David Tippett @taidesu.bsky.social](https://bsky.app/profile/taidesu.bsky.social)
+- [Kris Howard @webgoddess.bsky.social](https://bsky.app/profile/webgoddess.bsky.social)
 
 ## AWS Employees
 
@@ -65,7 +63,9 @@ Repository contains lists of [Bluesky](https://bsky.app/) (AT Protocol) users se
 - [Brandon Lyons @interactiverubberduck.dev](https://bsky.app/profile/interactiverubberduck.dev)
 - [Mohit Srivastava @mohit.cloud](https://bsky.app/profile/mohit.cloud)
 - [Nicklas af Ekenstam @nille.bsky.social](https://bsky.app/profile/nille.bsky.social)
-- [Nathan Peck @nathanpeck.bsky.social](https://bsky.app/profile/nathanpeck.bsky.social) 
+- [Nathan Peck @nathanpeck.bsky.social](https://bsky.app/profile/nathanpeck.bsky.social)
+- [Jeff Barr @jeff-barr.com](https://bsky.app/profile/jeff-barr.com)
+- [David Tippett @taidesu.bsky.social](https://bsky.app/profile/taidesu.bsky.social)
 
 ## AWS Heroes
 
