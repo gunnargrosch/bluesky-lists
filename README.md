@@ -120,6 +120,8 @@ Repository contains lists of [Bluesky](https://bsky.app/) (AT Protocol) users se
 - [Sebastian Bille @tastefulelk.bsky.social](https://bsky.app/profile/tastefulelk.bsky.social)
 - [Nick Triantafillou @nickt.bsky.social](https://bsky.app/profile/nickt.bsky.social)
 - [Lee Gilmore @serverlessadvocate.bsky.social](https://bsky.app/profile/serverlessadvocate.bsky.social)
+- [Matt Martz @martz.codes](https://bsky.app/profile/martz.codes)
+- [Matt Morgan @mattmorgan.cloud](https://bsky.app/profile/mattmorgan.cloud)
 
 ## AWS User Group Leaders
 
