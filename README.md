@@ -20,7 +20,7 @@ Repository contains lists of [Bluesky](https://bsky.app/) (AT Protocol) users se
 - [Felipe LeMaitre @felipelemaitre.bsky.social](https://bsky.app/profile/felipelemaitre.bsky.social)
 - [Ross Barich @rossbarich.bsky.social](https://bsky.app/profile/rossbarich.bsky.social)
 - [Wesley Faulkner @wesley83.bsky.social](https://bsky.app/profile/wesley83.bsky.social)
-- [Sebastien Stormacq @sebsto.bsky.social](https://bsky.app/profile/sebsto.bsky.social)
+- [Sebastien Stormacq @sebsto.bsky.social](https://bsky.app/profile/sebsto.bsky.social)
 - [Emily Freeman @emilyfreeman.bsky.social](https://bsky.app/profile/emilyfreeman.bsky.social)
 - [Danilo Poccia @danilop.bsky.social](https://bsky.app/profile/danilop.bsky.social)
 - [Jen Looper @jenlooper.bsky.social](https://bsky.app/profile/jenlooper.bsky.social)
@@ -32,7 +32,8 @@ Repository contains lists of [Bluesky](https://bsky.app/) (AT Protocol) users se
 - [Brandon Carroll @brandoncarroll.bsky.social](https://bsky.app/profile/brandoncarroll.bsky.social)
 - [Lily Kerns @lilyhazel.bsky.social](https://bsky.app/profile/lilyhazel.bsky.social)
 - [Cobus Bernard @cobusbernard.bsky.social](https://bsky.app/profile/cobusbernard.bsky.social)
-- [Kris Howard @webgoddess.bsky.social](https://bsky.app/profile/webgoddess.bsky.social)
+- [Kris Howard @webgoddess.bsky.social](https://bsky.app/profile/webgoddess.bsky.social)
+
 
 ## AWS Employees
 
