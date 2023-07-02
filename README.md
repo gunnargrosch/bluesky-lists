@@ -34,6 +34,7 @@ Repository contains lists of [Bluesky](https://bsky.app/) (AT Protocol) users se
 - [Lily Kerns @lilyhazel.bsky.social](https://bsky.app/profile/lilyhazel.bsky.social)
 - [Cobus Bernard @cobusbernard.bsky.social](https://bsky.app/profile/cobusbernard.bsky.social)
 - [Kris Howard @webgoddess.bsky.social](https://bsky.app/profile/webgoddess.bsky.social)
+- [David Tippett @taidesu.bsky.social](https://bsky.app/profile/taidesu.bsky.social)
 
 ## AWS Employees
 
